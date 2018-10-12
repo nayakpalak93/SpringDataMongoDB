@@ -12,11 +12,11 @@ Maven .
 
 ## Install MongoDB ##
 
-1) Create directory /data/db in loacl system<br/>  
-2) Run following commands using terminal<br/>  
+1. Create directory /data/db in loacl system<br/>  
+2. Run following commands using terminal<br/>  
 
-brew install mongodb<br/>  
-mongod
+    * brew install mongodb<br/>  
+    * mongod
 
 
 
