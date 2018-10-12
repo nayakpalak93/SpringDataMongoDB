@@ -1,4 +1,4 @@
-![picture alt](https://www.google.com/search?q=spring+data+mongodb&tbm=isch&tbs=rimg:CZoVXRMTT-dRIjiAiT5uiOYF27yTaHkwNToFCAqSszjKOzjTtGp8xlTcMAlWe1CV0eH6tGXlifBpIN_1wqEcfBZosqSoSCYCJPm6I5gXbEWhqNHPLXkDxKhIJvJNoeTA1OgURI_1NZ9e_175ZgqEgkICpKzOMo7OBEkQNzCOj8uaioSCdO0anzGVNwwESAGLsR6dEZMKhIJCVZ7UJXR4foRkfaGZYUVFXEqEgm0ZeWJ8Gkg3xGvAZ29iJ_1BvyoSCfCoRx8FmiypEf6nu5Z7hEam&tbo=u&sa=X&ved=2ahUKEwjl67THsoHeAhVOq1MKHYNiAVYQ9C96BAgBEBs&biw=1440&bih=821&dpr=2#imgrc=xJCPqwBGD_hFhM: "Title is optional")
+![picture alt](https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=QfORdwcCK4sQTXz4hhCFR3fjUgk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oIQY_PTWn8CnL_5aaEFXbrCKaqPbvO9l1VAl5C2GUtLq3sGWO9R47vdMy6P7Mo1saycY2nbhUPZxcJ0zkf04NraUlr5cujWLmhNXcegLgMPX_7JeTrYkY-TDFq9r2tKL3iLXo8zACgYIrIP_wWC4FG5IxC2glvt5r1IuRn5dlP7DB6_Xi36w "Title is optional")
 
 ## **Spring Data MongoDB** ##
 
