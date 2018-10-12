@@ -5,7 +5,7 @@ This project demonstarte how to use Sping Boot with MongoDB
 
 # Prerequisite
 
-JDB 1.8 or later . 
+JDB 1.8 or later<br/> 
 Maven . 
 
 
